@@ -1,0 +1,257 @@
+#backgroundimage {
+    background-image: url("images/Podium.jpg");
+    display: block;
+    
+    
+}
+
+body {
+    background-color: snow;
+}
+
+.homepageContent {
+    margin-top: 120px
+}
+
+
+
+.navbar p {
+    background-color: none;
+    font-size: 80px;
+}
+
+.artist img, .randanimatie img {
+    width: 100%;
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+
+.artist p {
+    height: 300px;
+    margin-top: -300px;
+    margin-left: 190px;
+    font-size: 50px
+    
+}
+
+.randanimatie p {
+    font-size: 25px;
+    font-weight: 10;
+    color: dimgray;
+     
+}
+
+.maintext{
+    font-size: 15px;
+    text-align: center;
+    font-weight: lighter;
+    color: dimgray;
+}
+
+.randanimatie img {
+    width: 40%;
+    margin: 0 auto;
+    display: block;
+    border-radius: 100%;
+    margin-top: 80px;
+}
+
+.randanimatie {
+    margin-top: 50px;
+
+}
+
+.randanimatie p {
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.ticketList img {
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+    margin-top: 40px
+}
+
+.ticketList p {
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+    margin-top: -25px;
+    padding-left: 10px;
+}
+
+.contactInfo {
+    display: block;
+    margin: 0 auto;
+    width: 70%;
+    text-align: center;
+    margin-top: 80px;
+    padding: 10px;
+    background-color: dimgray;
+    
+    
+}
+
+.contactInfo p {
+    font-size: 15px;
+    color: snow;
+    font-weight: bold;
+}
+
+.logo p {
+    text-align:center;
+    margin-top: 20px;
+    margin-bottom: -10px;
+    color: snow;
+    font-size: 300px;
+    font-weight: bold; 
+}
+
+.homepagetext p {
+    text-align:center;
+    margin-top: 20px;
+    margin-bottom: -10px;
+    color: snow;
+    font-size: 50px;
+    font-weight: lighter; 
+}
+
+.img1 {
+    height: 50px;
+    background-image: url("images/K3.jpg");
+    display: inline-block;
+    
+}
+
+.marginRow {
+    margin: 10px 0; 
+}
+.textImage {
+    position: relative;
+    height: 10%;
+    top: 90%;
+    background-color: dimgray;
+    color: snow;
+    padding-top: 3px
+}
+
+.button {
+    text-align: center;
+}
+
+
+.img3{
+    height: 50px;
+    background-image: url(images/Kabouterplop.jpg);
+    display: inline-block;
+    max-width: 100%;
+}
+.img4{
+    height: 50px;
+    background-image: url(images/Pietpiraat.png);
+    display: inline-block;
+    max-width: 100%;
+}
+.img5{
+    height: 50px;
+    background-image: url(images/Samson&Gert.jpg);
+    display: inline-block;
+    max-width: 100%;
+    background-size: cover;
+}
+.img6{
+    height: 50px;
+    background-image: url(images/Ketnetband.jpg);
+    display: inline-block;
+    max-width: 100%;
+}
+
+.img7{
+    height: 50px;
+    background-image: url(images/megamindy.jpg);
+    display: inline-block;
+    max-width: 100%;
+}
+
+.img8{
+    height: 50px;
+    background-image: url(images/K3.jpg);
+    display: inline-block;
+    max-width: 100%;
+}
+.img9{
+    height: 50px;
+    background-image: url(images/Spring.png);
+    display: inline-block;
+    max-width: 100%;
+}
+
+.img10{
+    height: 50px;
+    background-image: url(images/W817.jpg);
+    display: inline-block;
+    max-width: 100%;
+}
+.img12{
+    height: 50px;
+    background-image: url(images/megamindy.jpg);
+    display: inline-block;
+    max-width: 100%;
+}
+.img11{
+    height: 50px;
+    background-image: url(images/Kabouterplop.jpg);
+    display: inline-block;
+    max-width: 100%;
+}
+.img13{
+    height: 50px;
+    background-image: url(images/Samson&Gert.jpg);
+    display: inline-block;
+    max-width: 100%;
+}
+
+.img14{
+    height: 50px;
+    background-image: url(images/kinderen.jpg);
+    display: inline-block;
+    max-width: 100%;
+}
+.img15{
+    height: 50px;
+    background-image: url(images/verfhanden.jpg);
+    display: inline-block;
+    max-width: 100%;
+}
+.img16{
+    height: 50px;
+    background-image: url(images/family.jpg);
+    display: inline-block;
+    max-width: 100%;
+}
+
+.img2 {
+    height: 50px;
+    background-image: url("images/Samson&Gert.jpg");
+    display: inline-block;
+}
+
+
+#dag1 p {
+    font-size: 40px;
+}
+
+a#dag1 {
+    width: 550px;
+    height: 300px;
+}
+
+
+
+
+.navbar {
+    background-color: rgb(141,226,181) !important;
+}
